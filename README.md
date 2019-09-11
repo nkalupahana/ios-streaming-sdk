@@ -1,4 +1,4 @@
-**WARNING: This is a beta release of the Spotify iOS Streaming SDK.**
+**WARNING: This SDK is deprecated and the repo will be inaccessible from November 1 2019.**
 
 
 Spotify iOS Streaming SDK Readme
